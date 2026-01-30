@@ -4,6 +4,15 @@
   
   ### The Ultimate Control Panel for Managing Servers & Applications with Ease.
 
+  ## Getting Started
+
+  Currently tested OS: Ubuntu 24.04
+  
+  Copy this command and paste it into your Linux terminal:
+  ```
+    curl -sSL https://github.com/riyaz7us/Panel17-Release/releases/download/initial-release/panel17-latest-installer.run | sudo bash
+  ```
+
   [![Release](https://img.shields.io/github/v/release/riyaz7us/Panel17-Release?style=for-the-badge&color=2563EB)](https://github.com/riyaz7us/Panel17-Release/releases/)
   [![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](https://p17landing.pages.dev/)
   [![Platform](https://img.shields.io/badge/platform-Linux-lightgrey?style=for-the-badge&logo=linux)](https://p17landing.pages.dev/)
